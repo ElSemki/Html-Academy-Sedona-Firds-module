@@ -265,8 +265,6 @@ ul {
 
 .advantages-item-house::before {
   content: "";
-  top: -80px;
-  left: 162px;
   width: 75px;
   height: 72px;
   background-image: url(../img/reasons/icon-1.svg);
@@ -276,8 +274,6 @@ ul {
 
 .advantages-item-eat::before {
   content: "";
-  top: -78px;
-  left: 162px;
   width: 75px;
   height: 70px;
   background-image: url(../img/reasons/icon-2.svg);
@@ -287,8 +283,6 @@ ul {
 
 .advantages-item-souvenirs::before {
   content: "";
-  top: -83px;
-  left: 168px;
   width: 64px;
   height: 77px;
   background-image: url(../img/reasons/icon-3.svg);
